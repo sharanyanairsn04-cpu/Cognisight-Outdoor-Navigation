@@ -30,3 +30,4 @@ htmlcov/
 # IDE files
 .vscode/
 .idea/
+.venv-1/
